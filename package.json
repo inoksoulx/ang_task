@@ -1,0 +1,20 @@
+{
+  "name": "ang_task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inoksoulx/ang_task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inoksoulx/ang_task/issues"
+  },
+  "homepage": "https://github.com/inoksoulx/ang_task#readme"
+}
